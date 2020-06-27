@@ -22,6 +22,7 @@
 <a href="https://hub.docker.com/r/jellyfin/jellyfin">
 <img alt="Docker Pull Count" src="https://img.shields.io/docker/pulls/jellyfin/jellyfin.svg"/>
 </a>
+<a href="https://app.fossa.com/projects/git%2Bgithub.com%2Fthornbill%2Fjellyfin?ref=badge_shield" alt="FOSSA Status"><img src="https://app.fossa.com/api/projects/git%2Bgithub.com%2Fthornbill%2Fjellyfin.svg?type=shield"/></a>
 </br>
 <a href="https://opencollective.com/jellyfin">
 <img alt="Donate" src="https://img.shields.io/opencollective/all/jellyfin.svg?label=backers"/>
@@ -63,3 +64,7 @@ Most of the translations can be found in the web client but we have several othe
 <a href="https://translate.jellyfin.org/engage/jellyfin/?utm_source=widget">
 <img src="https://translate.jellyfin.org/widgets/jellyfin/-/jellyfin-web/multi-auto.svg" alt="Detailed Translation Status"/>
 </a>
+
+
+## License
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fthornbill%2Fjellyfin.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Fthornbill%2Fjellyfin?ref=badge_large)
