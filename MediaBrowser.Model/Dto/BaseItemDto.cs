@@ -569,6 +569,12 @@ namespace MediaBrowser.Model.Dto
         public List<ChapterInfo> Chapters { get; set; }
 
         /// <summary>
+        /// Gets or sets the media segments.
+        /// </summary>
+        /// <value>The media segments.</value>
+        public List<MediaSegment> MediaSegments { get; set; }
+
+        /// <summary>
         /// Gets or sets the type of the location.
         /// </summary>
         /// <value>The type of the location.</value>

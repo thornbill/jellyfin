@@ -1057,6 +1057,7 @@ namespace Emby.Server.Implementations.Dto
                 if (options.ContainsField(ItemFields.Chapters))
                 {
                     dto.Chapters = _itemRepo.GetChapters(item);
+                    dto.MediaSegments = dto.Chapters.Select(MediaSegment.FromChapterInfo).ToList();
                 }
 
                 if (video.ExtraType.HasValue)
